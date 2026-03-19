@@ -1,10 +1,15 @@
 title: Intent & Scope
-description: 网络安全合规与标准解读
+description: Exploring where technical correctness diverges from regulatory reality — across AI, cybersecurity, and compliance systems.
 author: Xin Yu
 theme: minima
 
 url: "https://yuxin16-cn.github.io"  
 
 header_pages:
-  - about.md
+  - About.md
+  - Language Drift.md
+  - Hidden Assumptions.md
+  - Audit Logic.md
+  - Regulatory Signals.md
+  - Tools ≠ Judgment.md
   - AI & Cybersecurity Regulation.md
