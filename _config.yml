@@ -1,9 +1,9 @@
 title: Intent & Scope
 description: 网络安全合规与标准解读
 author: Xin Yu
-remote_theme: "jekyll/minima@1e8a445"
+theme: minima
 
-url: "https://yuxin16-cn.github.io"  # 先用你的 GitHub Pages 地址
+url: "https://yuxin16-cn.github.io"  
 
 header_pages:
   - about.md
