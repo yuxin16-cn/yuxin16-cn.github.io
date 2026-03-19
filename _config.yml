@@ -1,0 +1,12 @@
+title: Intent & Scope
+description: 网络安全合规与标准解读
+author: Xin
+theme: minima
+
+# 以后你绑定自定义域名后，可以改成你的域名
+url: "https://yuxin16-cn.github.io"
+
+# 导航栏链接
+header_pages:
+  - about.md
+  - AI & Cybersecurity 合规解读.md
